@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @meghanadh05
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋 I'm Meghanadh
 
-<!---
-meghanadh05/meghanadh05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 B.Tech in AI & Data Science
+- 💡 Interested in Machine Learning, Python, and Deep Learning
+- 🔭 Currently working on: A ML model for crop prediction
+- 📫 Reach me: email@example.com | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+<!-- GitHub Stats -->
+![Meghanadh's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+
